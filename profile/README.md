@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="insiders.bot" width="100%" />
+<img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/banner.jpg" alt="insiders.bot" width="100%" />
 
 <br/>
 
-**The only Telegram bot you need for Polymarket.**
+**The only Telegram bot & Webterminal you need for Polymarket.**
 
 A real-time data engine that runs 10 to 20 seconds ahead of Polymarket, streaming every trade on-chain and mapping it to off-chain metadata, so you see the move before their own frontend does.
 
@@ -34,16 +34,20 @@ A real-time data engine that runs 10 to 20 seconds ahead of Polymarket, streamin
 
 ## The wins
 
+
+No words just pow ( proof of winning ). 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/signals.jpg" alt="Pro Signals ranked by gain" width="100%" />
+</div>
+
+
+---
+
 Our AI agent called the Portugal FIFA match (+350%) and the Congo match (+600%) live on stream, then suggested Canada to win with over 2.5 goals.
 
 <div align="center">
-  <img src="assets/wins-ai.jpg" alt="insiders.bot AI agent predictions on stream" width="60%" />
-</div>
-
-Pro Signals, ranked biggest gain first.
-
-<div align="center">
-  <img src="assets/signals.jpg" alt="Pro Signals ranked by gain" width="100%" />
+  <img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/wins-ai.jpg" alt="insiders.bot AI agent predictions on stream" width="60%" />
 </div>
 
 ---
@@ -57,7 +61,7 @@ Everything below runs on the same real-time pipeline, on the web app, in the Tel
 Every Polymarket market, live and filterable (5-min crypto, politics, sports, geopolitics), with an AI you can ask in plain language to scan wallets, compare markets, or describe a trade.
 
 <div align="center">
-  <img src="assets/home.jpg" alt="insiders.bot live markets and AI assistant" width="100%" />
+  <img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/home.jpg" alt="insiders.bot live markets and AI assistant" width="100%" />
 </div>
 
 ### Live terminal
@@ -65,7 +69,7 @@ Every Polymarket market, live and filterable (5-min crypto, politics, sports, ge
 Full order book, real-time price, trade feed, take-profit / stop-loss, and returns-by-bet-size on any market, down to the second.
 
 <div align="center">
-  <img src="assets/terminal.jpg" alt="insiders.bot live trading terminal" width="100%" />
+  <img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/terminal.jpg" alt="insiders.bot live trading terminal" width="100%" />
 </div>
 
 ### Wallet tracking
@@ -73,7 +77,7 @@ Full order book, real-time price, trade feed, take-profit / stop-loss, and retur
 Every wallet on Polymarket, indexed and filterable by volume, PnL, ROI, win rate, trades and markets. **1.7M+ wallets, 2.4B+ trades.**
 
 <div align="center">
-  <img src="assets/wallets.jpg" alt="insiders.bot wallet filter" width="100%" />
+  <img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/wallets.jpg" alt="insiders.bot wallet filter" width="100%" />
 </div>
 
 ### Signals
@@ -81,13 +85,13 @@ Every wallet on Polymarket, indexed and filterable by volume, PnL, ROI, win rate
 Live bets from Polymarket's most profitable wallets, which smart wallets are buying which side, their win rates, avg entry and upside. Filterable by World, Politics, Geopolitics, Esports, Cricket, Finance and Crypto Launch.
 
 <div align="center">
-  <img src="assets/signals-web.png" alt="insiders.bot signals, live bets from the most profitable wallets" width="100%" />
+  <img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/signals-web.png" alt="insiders.bot signals, live bets from the most profitable wallets" width="100%" />
 </div>
 
 And delivered straight to Telegram, DMs and group topics, the moment they fire.
 
 <div align="center">
-  <img src="assets/tg-signal.jpg" alt="insiders.bot Telegram signal" width="45%" />
+  <img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/tg-signal.jpg" alt="insiders.bot Telegram signal" width="45%" />
 </div>
 
 ---
@@ -105,7 +109,7 @@ Asset IDs → Condition IDs → Market Titles → Outcome Names
 Map that once, and you can stream the blockchain in real time instead of waiting on their APIs.
 
 <div align="center">
-  <img src="assets/architecture.jpg" alt="insiders.bot architecture, how we got 10 to 20 seconds ahead of Polymarket" width="90%" />
+  <img src="https://raw.githubusercontent.com/SigmaLabsAI/.github/main/profile/assets/architecture.jpg" alt="insiders.bot architecture, how we got 10 to 20 seconds ahead of Polymarket" width="90%" />
 </div>
 
 > Solid = live pipeline today. Dashed = legacy, since retired.
